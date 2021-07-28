@@ -1,0 +1,37 @@
+﻿<h2 class="mb-3 mt-3">Adicionar Produto Ao Estoque</h2>
+
+<form method="post">
+
+    <div class="form-group mb-3">
+        <label for="txtNome" class="form-label">Nome</label>
+        <input type="text" class="form-control" name="nome" id="txtNome" value="@Model.Nome" autofocus placeholder="Nome do Produto">
+    </div>
+
+    <div class="form-group mb-3">
+        <label class="form-label">Preço (R$)</label>
+        <input type="text" class="form-control" id="formGroupExampleInput" name="preco" value="@Model.Preco" placeholder="R$ 00,00">
+    </div>
+
+    <div class="form-group mb-3">
+        <label class="form-label">Tipo</label>
+        <select name="TipoDeProdutoId" class="form-select form-control">
+            <option value="1">Informática</option>
+            <option value="2">Insumos</option>
+            <option value="3">Outros</option>
+            <option value="4">Serviços</option>
+            <option value="5">Equipamento</option>
+            <option value="6">EPI</option>
+        </select>
+        </div>
+
+    <div class="form-group mb-3">
+        <label class="form-label">Quantidade</label>
+        <input type="text" class="form-control" id="formGroupExampleInput" name="Quantidade" value="@Model.Quantidade" placeholder="0000">
+    </div>
+
+  
+    <div class="form-group">
+        <button id="save" class="btn btn-sm btn-outline-light"><i class="far fa-save"></i> Adicionar</button>
+        <a href="~/Produtos" class="btn btn-sm btn-outline-danger"><i class="fas fa-exclamation"></i> Cancelar</a>
+    </div>
+</form>
