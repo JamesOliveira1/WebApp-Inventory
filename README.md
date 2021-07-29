@@ -2,30 +2,31 @@
 
 > Sistema que adiciona itens a um estoque ou listagem, remove, edita, usando um banco de dados
 
-## Imagens
+## Imagens 
 
 <p>
-  <img src="images/image01.png" width="600" title="preview">
+  <img src="images/image01.png" width="300" title="preview">
   <p>    </p>
   <img src="images/image02.png" width="300" alt="preview">
   <p>    </p>
-  <img src="images/image03.png" width="450" alt="preview">
+  <img src="images/image03.png" width="300" alt="preview">
 </p>
 
 ## Resumo
 
-O objetivo era desenvolver um sistema para ganhar experiencia com alguns frameworks, gerenciador NuGet, estrutura MVC e banco de dados;  
+O objetivo era desenvolver um sistema para ganhar experiência com alguns frameworks, gerenciador NuGet, estrutura MVC e banco de dados;  
 
 ## Versões - Histórico
 
-* 0.2.0
-    * Atualização do front-end
-    * Banco de Dados
-* 0.1.0
+* 0.2.0 Beta
+    * Atualização do front-end, toastr
     * Responsividade
+    * Banco de Dados dos formularios
+* 0.1.0
+    * Funcionalidade
     * Adição de conteúdo
 * 0.0.1
-    * Criação do sistema
+    * Criação do sistema MVC e Objetos
 
 ## 
 
