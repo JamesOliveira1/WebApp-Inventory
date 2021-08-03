@@ -5,9 +5,9 @@
 ## Imagens 
 
 <p>
-  <img src="images/image01.png" width="450" title="preview">
+  <img src="images/image01.png" width="800" title="preview">
   <p>    </p>
-  <img src="images/image03.png" width="450" alt="preview">
+  <img src="images/image03.png" width="800" alt="preview">
   <p>    </p>
   <img src="images/image02.png" width="300" alt="preview">
   
