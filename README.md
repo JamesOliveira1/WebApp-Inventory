@@ -15,7 +15,7 @@
 
 ## Resumo
 
-O objetivo era desenvolver um sistema para ganhar experiência com alguns frameworks, gerenciador NuGet, estrutura MVC e banco de dados;  
+O objetivo era desenvolver um sistema, a partir de um template empty, para ganhar experiência com alguns frameworks, gerenciador NuGet, estrutura MVC e banco de dados;  
 
 ## Versões - Histórico
 
