@@ -7,7 +7,7 @@
 <p>
   <img src="images/image01.png" width="800" title="preview">
   <p>    </p>
-  <img src="images/image03.png" width="800" alt="preview">
+  <img src="images/image03.png" width="600" alt="preview">
   <p>    </p>
   <img src="images/image02.png" width="300" alt="preview">
   
@@ -19,10 +19,10 @@ O objetivo era desenvolver um sistema, a partir de um template empty, para ganha
 
 ## Update
 
-O sistema inicia processo para implementação em um inventário de um estaleiro em Florianopolis/SC, com algumas outras funcionalidades como geração de relatórios, produtos compostos, sub itens, saídas.
+> O sistema inicia processo para implementação em um inventário de um estaleiro em Florianopolis/SC, com algumas outras funcionalidades como geração de relatórios, produtos compostos, sub itens, saídas.
 
 <p>    </p>
-  <img src="images/mastro.png" width="300" alt="preview">
+  <img src="images/mastro.PNG" width="800" alt="preview">
 
 ## Versões - Histórico
 
