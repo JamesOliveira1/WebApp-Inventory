@@ -15,7 +15,14 @@
 
 ## Resumo
 
-O objetivo era desenvolver um sistema, a partir de um template empty, para ganhar experiência com alguns frameworks, gerenciador NuGet, estrutura MVC e banco de dados;  
+O objetivo era desenvolver um sistema, a partir de um template empty, para ganhar experiência com alguns frameworks, gerenciador NuGet, estrutura MVC e banco de dados; 
+
+## Update
+
+O sistema inicia processo para implementação em um inventário de um estaleiro em Florianopolis/SC, com algumas outras funcionalidades como geração de relatórios, produtos compostos, sub itens, saídas.
+
+<p>    </p>
+  <img src="images/mastro.png" width="300" alt="preview">
 
 ## Versões - Histórico
 
