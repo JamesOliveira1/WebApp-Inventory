@@ -19,7 +19,9 @@ O objetivo era desenvolver um sistema, a partir de um template empty, para ganha
 
 ## Update
 
-> O sistema inicia processo para implementação em um inventário de um estaleiro em Florianopolis/SC, com algumas outras funcionalidades como geração de relatórios, produtos compostos, sub itens, saídas.
+O sistema inicia processo para implementação em um inventário de um estaleiro em Florianopolis/SC
+
+> Foram adicionadas algumas outras funcionalidades como geração de relatórios, produtos compostos, sub itens, saídas.
 
 <p>    </p>
   <img src="images/mastro.PNG" width="800" alt="preview">
